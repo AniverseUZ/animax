@@ -63,7 +63,7 @@ async def save_group(bot, message):
                         pass
                 temp.MELCOW['welcome'] = await message.reply_photo(
                 photo="https://telegra.ph/file/f5e95f16ad290120d20c0.jpg",                                               
-                                                 caption=f"<b>ʜᴇʏ, {u.mention} 👋🏻\n𝙶𝚄𝚁𝚄𝙷𝙶𝙰 𝚇𝚄𝚂𝙷 𝙺𝙴𝙻𝙸𝙱𝚂𝙸𝚉! {message.chat.title}\n\nsɪᴢ ʙᴜ ɢᴜʀᴜʜ ᴠᴀ ʙᴏᴛ ᴏʀǫᴀʟɪ ᴏ'ᴢɪɴɢɪᴢ ɪsᴛᴀɢᴀɴ ᴀɴɪᴍᴇʟᴀʀɴɪ ᴛᴏᴘᴀ ᴏʟᴀsɪᴢ!. ᴇɴᴊᴏʏ😉.\n\n<b>┏≫ ɢᴜʀᴜʜ ǫᴏɪᴅᴀʟᴀʀɪɢᴀ ᴀᴍᴀʟ ǫɪʟɪɴɢ!</b>\n┣ <b>ᴀsᴏsɪʏ ᴋᴀɴᴀʟ ›› @VJ_Bots</b></code>\n<b>┗≫ ɢᴜʀᴜʜ ǫᴏɪᴅᴀʟᴀʀɪɢᴀ ᴀᴍᴀʟ ǫɪʟɪɴɢ!</b>",
+                                                 caption=f"<b>ʜᴇʏ, {u.mention} 👋🏻\n𝙶𝚄𝚁𝚄𝙷𝙶𝙰 𝚇𝚄𝚂𝙷 𝙺𝙴𝙻𝙸𝙱𝚂𝙸𝚉! {message.chat.title}\n\nsɪᴢ ʙᴜ ɢᴜʀᴜʜ ᴠᴀ ʙᴏᴛ ᴏʀǫᴀʟɪ ᴏ'ᴢɪɴɢɪᴢ ɪsᴛᴀɢᴀɴ ᴀɴɪᴍᴇʟᴀʀɴɪ ᴛᴏᴘᴀ ᴏʟᴀsɪᴢ!. ᴇɴᴊᴏʏ😉.\n\n<b>┏≫ ɢᴜʀᴜʜ ǫᴏɪᴅᴀʟᴀʀɪɢᴀ ᴀᴍᴀʟ ǫɪʟɪɴɢ!</b>\n┣ <b>ᴀsᴏsɪʏ ᴋᴀɴᴀʟ ›› @Ani_MaxUz</b></code>\n<b>┗≫ ɢᴜʀᴜʜ ǫᴏɪᴅᴀʟᴀʀɪɢᴀ ᴀᴍᴀʟ ǫɪʟɪɴɢ!</b>",
                                                  reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🍿 ᴀsᴏsɪʏ ᴋᴀɴᴀʟ 🍿', url='http://t.me/ANI_MAXUZ') ] ] )
                 )
 
